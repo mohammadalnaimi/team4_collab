@@ -1,5 +1,7 @@
 package first_package;
 
+import java.util.logging.SocketHandler;
+
 public class SecondClass {
 
     public static void main(String[] args) {
@@ -19,5 +21,15 @@ public class SecondClass {
         105 → true
         120 → false
          */
+
+        int num = 96;
+
+        if((num>89 && num<111) || (num>189 && num< 211)){
+            System.out.println("true");;
+        }else{
+            System.out.println("false");
+        }
+
+
     }
 }
