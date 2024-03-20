@@ -1,6 +1,6 @@
 package first_package;
 
-public class Amel {
+public class AmelsTaskSolution {
 
     // hi this is amel
     // adding something else
